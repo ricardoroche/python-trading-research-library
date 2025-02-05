@@ -4,7 +4,7 @@
 
 ### Activating the virtual environment
 
-The code for this assessment has been structured as a research library that can be installed as a python package.
+The sample code in this repository has been structured as a research library that can be installed as a python package.
 The virtual environment needs to be regenerated, you can use the following steps from the root directory of the project:
 
 1. Create a virtual environment: `python -m venv venv`
